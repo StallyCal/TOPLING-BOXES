@@ -1,2 +1,1 @@
-# TOPLING-BOXES
-MADE ON VSC
+# Box Class
